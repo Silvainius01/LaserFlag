@@ -1,0 +1,9 @@
+﻿- Add muzzle flash to guns
+- Add fx to where bullets hit
+- Add leaderboard
+	- Points for captures
+	- Points for taking flag?
+	- Points for flag returns
+	- Points for kills
+- Add auto balance based on leaderboard points
+- Better map... somehow. See computer notes
